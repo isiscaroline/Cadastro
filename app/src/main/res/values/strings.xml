@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Cadastro</string>
+    <string name="nome">Nome Completo</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">E-mail</string>
+    <string name="checkbox">Ingressar na lista de e-mails?</string>
+    <string name="cidade">Cidade</string>
+    <string name="estado">UF</string>
+    <string-array name="UF">
+        <item>AC</item>
+        <item>AL</item>
+        <item>AP</item>
+        <item>AM</item>
+        <item>BA</item>
+    </string-array>
 </resources>
